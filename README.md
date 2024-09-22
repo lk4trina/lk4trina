@@ -34,35 +34,33 @@
 
 </div>
 
-<!--
-### Main skills:
+<br>
+
+<h2 align="left"> Constantly learning: </h2>
+
 <div align="left"> 
+
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/9fdc3fff-cb90-4f09-b084-a8b5018491dc">
   
 <img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/3291881e-1865-4c75-8a2c-b7c2badf4492">
 
-</div>
+<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/73170f4d-8bb3-449f-b72a-83e909eae499">
 
-<br>
-<br> 
-<br>
-<br>
-<br>
-<br> 
+<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/f642f7c6-a327-42c8-8790-455495880039">
 
-<h2 align="left"> Studying in this moment: </h2>
+<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/3ee10643-e357-4c60-8869-076e0ab8e163">
 
-<div align="left"> 
+<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/2fed8418-bfac-4773-9b6d-7e01978561f8">
 
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/9fdc3fff-cb90-4f09-b084-a8b5018491dc">
-
-<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/3291881e-1865-4c75-8a2c-b7c2badf4492">
+<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/d46ecb35-93a6-4fe1-a3a3-7bd8f680f4d4">
 
 </div>
+
 <br>
 <br>
 <br>
 <br>
--->
+<br>
+<br>
 
 <img width=100% src="https://github.com/user-attachments/assets/7aa4ce84-9d80-49c6-88af-ce564b74a81b"/>
