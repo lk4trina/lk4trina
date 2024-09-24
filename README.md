@@ -36,6 +36,14 @@
 
 <br>
 
+<!--<div align="center" >
+   
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Flk4trina&s=40&c=ff0080&bg=00000000&no=2&ff=digi&tb=&ta=)
+
+</div> -->
+
+<br> 
+
 <h2 align="left"> Constantly learning: </h2>
 
 <div align="left"> 
