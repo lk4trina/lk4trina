@@ -13,6 +13,8 @@
 
 </div>
 
+<br>
+
 <div align="center"> 
 <a href="https://www.instagram.com/l_katrin4/" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
@@ -28,9 +30,13 @@
 
 </div>
 
+<br>
+
 <div align="center" >
 
-![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/lk4trina?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&weeks=30&theme=sunset) 
+
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/lk4trina?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&weeks=30&theme=sunset) 
+
 
 </div>
 
