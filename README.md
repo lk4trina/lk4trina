@@ -8,6 +8,8 @@
 <br>
 
 <div align="center">
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lk4trina&theme=violet-dark&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lk4trina&theme=violet-dark&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
@@ -36,11 +38,11 @@
 
 <br>
 
-<div align="center" >
+<!-- <div align="center" >
    
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Flk4trina&s=40&c=ff0080&bg=00000000&no=2&ff=digi&tb=&ta=)
 
-</div>
+</div> -->
 
 <br> 
 
