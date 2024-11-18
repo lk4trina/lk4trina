@@ -8,8 +8,6 @@
 <br>
 
 <div align="center">
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lk4trina&theme=violet-dark&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lk4trina&theme=violet-dark&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
@@ -31,8 +29,8 @@
 </div>
 
 <div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/lk4trina?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
+
+![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/lk4trina?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&weeks=30&theme=sunset) 
 
 </div>
 
