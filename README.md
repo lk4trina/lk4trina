@@ -9,7 +9,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lk4trina&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lk4trina&theme=violet-dark&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 </div>
 
@@ -36,11 +36,11 @@
 
 <br>
 
-<!--<div align="center" >
+<div align="center" >
    
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Flk4trina&s=40&c=ff0080&bg=00000000&no=2&ff=digi&tb=&ta=)
 
-</div> -->
+</div>
 
 <br> 
 
