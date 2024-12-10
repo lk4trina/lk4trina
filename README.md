@@ -1,8 +1,8 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/d5657cc9-2d1d-4bfa-a3fe-54071f265c54"/>
+<img width=50% bottom=25px src="https://github.com/user-attachments/assets/9b4804bc-fc11-42f5-9cfb-dd2ef2d55897"/>
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Letícia+Katrina;I'm+19+years+old;I'm+a+Software+Engineering+student;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Letícia+Katrina;I'm+19+years+old;I'm+a+Software+Engineering+student;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <br>
 <br>
