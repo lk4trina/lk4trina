@@ -41,8 +41,6 @@
 
 <br>
 
-<br> 
-
 <h2 align="left"> Constantly learning: </h2>
 
 <div align="left"> 
@@ -70,4 +68,4 @@
 <br>
 <br>
 
-<img width=100% src="https://github.com/user-attachments/assets/7aa4ce84-9d80-49c6-88af-ce564b74a81b"/>
+<img width=100% src="https://github.com/user-attachments/assets/93382a11-7bbf-4702-8714-e3d7d98f0701"/>
