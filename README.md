@@ -16,7 +16,7 @@
 <br>
 
 <div align="center"> 
-<a href="https://www.instagram.com/l_katrin4/" target="_blank">
+<a href="https://www.instagram.com/lkbutel/" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
 </a>
 
